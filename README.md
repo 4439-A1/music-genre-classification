@@ -3,4 +3,4 @@
 
  See Music_Genre_Classification_Report.pdf for more details of the model's performance. The report explains all the methods/models that I tried for feature extractions and classification. In the folder Testing Code, there are code files which I used throughout the way but ended up discarding because they didn't give the highest accuracy. These code files are referenced in the report. The folder Final Submission Code contains the code that I used for the Kaggle submissions.
 
- **Note:** Music_Genre_Classification_Report.pdf needs to be downloaded before it can be viewed.
+ **Note:** On Safari, Music_Genre_Classification_Report.pdf needs to be downloaded before it can be viewed.
